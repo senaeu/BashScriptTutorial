@@ -1,0 +1,14 @@
+total 24
+drwxr-xr-x 1 10M 197121     0 Dec 11 20:17 .
+drwxr-xr-x 1 10M 197121     0 Oct 29 08:40 ..
+-rwxr-xr-x 1 10M 197121 10226 Dec 11 20:17 Hello.sh
+-rw-r--r-- 1 10M 197121    18 Oct 29 12:48 application.properties
+-rw-r--r-- 1 10M 197121    95 Dec 11 20:03 file.txt
+-rw-r--r-- 1 10M 197121     0 Dec 11 20:18 file1.txt
+-rw-r--r-- 1 10M 197121     0 Dec 11 20:18 file2.txt
+-rw-r--r-- 1 10M 197121   680 Dec 11 20:12 file3.txt
+-rw-r--r-- 1 10M 197121  2587 Dec 11 20:13 outputfile
+-rwxr-xr-x 1 10M 197121    59 Dec 10 18:08 secondScript.sh
+drwxr-xr-x 1 10M 197121     0 Oct 29 15:28 static
+drwxr-xr-x 1 10M 197121     0 Dec 11 19:19 temp
+drwxr-xr-x 1 10M 197121     0 Oct 29 15:28 templates

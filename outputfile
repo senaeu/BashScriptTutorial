@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title> Speedtest || iperf by OVHCloud </title>
+<meta name="description" content="Test your connection bandwith with OVH Infrastructure">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="icon" href="https://www.ovh.com/favicon.ico" type="image/gif" translate="none">
+<link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+
+<body>
+
+<div id="header">
+   <div class="main_logo">
+      <a href="http://www.ovh.com" target="_blank"><img src="/logo_com.png" alt="OVH.com"></a>
+      <br>
+   </div>
+   <div class="menu">
+      <div class="header_wrapper">
+         <ul id="menu-deroulant">
+            <li><a href="/">Speedtest</a></li>
+            <li><a href="/files/">Files</a></li>
+            <li>
+               <a href="#">Proofs</a>
+               <ul id="sub-menu">
+                  <li><a href="https://vin.proof.ovh.us">VIN</a></li>
+                  <li><a href="https://sbg.proof.ovh.net">SBG</a></li>
+                  <li><a href="https://rbx.proof.ovh.net">RBX</a></li>
+                  <li><a href="https://hil.proof.ovh.us">HIL</a></li>
+                  <li><a href="https://gra.proof.ovh.net">GRA</a></li>
+                  <li><a href="https://bhs.proof.ovh.ca">BHS</a></li>
+               </ul>
+            </li>
+         </ul>
+      </div>
+   </div>
+</div>
+<br/><br/>
+
+<div id="main">
+<br />
+<p> </p>
+<b>Static download test</b>
+<p> </p>
+
+<table>
+  <tr>
+    <th>File</th>
+    <th>Mebioctet</th>
+    <th>2<sup>X</sup> Octet</th>
+    <th>Kio</th>
+    <th>Octet</th>
+  </tr>
+  <tr>
+    <td><a href="1Mb.dat">1 Mio file</a></td>
+    <td>1 mebioctet</td>
+    <td>2<sup>20</sup> octets </td>
+    <td>1,024 Kio</td>
+    <td>1,048,576 octets</td>
+  </tr>
+  <tr>
+    <td><a href="10Mb.dat">10 Mio file</a></td>
+    <td>10 mebioctet</td>
+    <td>10 x 2<sup>20</sup> octets</td>
+    <td>10,240 Kio</td>
+    <td>10,485,760 octets</td>
+  </tr>
+  <tr>
+    <td><a href="100Mb.dat">100 Mio file</a></td>
+    <td>100 mebioctet</td>
+    <td> 100 x 2<sup>20</sup> octets</td>
+    <td>102,400 Kio</td>
+    <td>104,857,600 octets</td>
+  </tr>
+  <tr>
+    <td><a href="1Gb.dat">1 Gio file</a></td>
+    <td>1 gibioctet</td>
+    <td>2<sup>30</sup> octets</td>
+    <td>1,024 Mio</td>
+    <td>1,073,741,824 octets</td>
+  </tr>
+  <tr>
+    <td><a href="10Gb.dat">10 Gio file</a></td>
+    <td>10 gibioctet</td>
+    <td>10 x 2<sup>30</sup> octets</td>
+    <td>10,240 Mio</td>
+    <td>10,737,418,240 octets</td>
+  </tr>
+</table>
+
+
+
+</div>
+</body>
+</html>
