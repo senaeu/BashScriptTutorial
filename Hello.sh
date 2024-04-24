@@ -1,6 +1,6 @@
 #! /bin/bash
-
-#echo "hello bash linuxHint audience" > file.txt
+#echo "hello from senaeu"
+#echo "hello bash linux audience" > file.txt
 echo "Topics covered in this tutorial"
 echo "1-Hello Bash Scripting
       2-Redirect to file
